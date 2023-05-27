@@ -1,0 +1,31 @@
+html{
+    background-color: black;
+    color: white;
+  }
+  .header {
+    text-align: center;
+    padding: 20px;
+  }
+  img {
+    width: 350px;
+    border: solid rgb(131, 222, 255) 5px ;
+  }
+  .greetings_text {
+    font-size: 18px;
+  }
+  .about_me_text{
+    font-size: 18px;
+  }
+  h1{
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  .par_color{
+    font-size: 20px;
+    color: rgb(103, 219, 255);
+  }
+  a:-webkit-any-link{
+    color: aqua;
+  }
+  
